@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+emnist_balanced.pkl filter=lfs diff=lfs merge=lfs -text
