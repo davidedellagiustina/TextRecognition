@@ -2,7 +2,7 @@
 
 All the software included in this repository was developed during the 1st edition (2019) of the COmputer Science Hackathon organized by the University of Udine.
 
-![](imgs/A1.png)
+<img align="center" src="imgs/A1.png">
 
 # License
 
