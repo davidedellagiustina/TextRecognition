@@ -4,6 +4,10 @@ All the software included in this repository was developed during the 1st editio
 
 <p align="center"><img align="center" src="imgs/A1.png"></p>
 
+<p align="center"><img align="center" src="imgs/A2.png"></p>
+
+<p align="center"><img align="center" src="imgs/A3.png"></p>
+
 # License
 
 This software is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.
