@@ -1,6 +1,6 @@
 # Text Recognition in Images
 
-All the software included in this repository was developed during the 1st edition (2019) of the COmputer Science Hackathon organized by the University of Udine.
+All the software included in this repository was developed during the 1st edition (2019) of the Computer Science Hackathon organized by the University of Udine.
 
 <p align="center"><img align="center" src="imgs/A1.png"></p>
 
